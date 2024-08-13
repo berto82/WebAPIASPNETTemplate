@@ -6,11 +6,11 @@ Imports Microsoft.VisualBasic
 ' General Information about an assembly is controlled through the following 
 ' set of attributes. Change these attribute values to modify the information
 ' associated with an assembly.
-<Assembly: AssemblyTitle("WebAPIASPNETTEmplateVSIX")>
+<Assembly: AssemblyTitle("WebAPIASPNETTemplateVSIX")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyConfiguration("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("WebAPIASPNETTEmplateVSIX")>
+<Assembly: AssemblyProduct("WebAPIASPNETTemplateVSIX")>
 <Assembly: AssemblyCopyright("")>
 <Assembly: AssemblyTrademark("")>
 <Assembly: AssemblyCulture("")>
