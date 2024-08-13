@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="WebAPIASPNETTEmplateVSIX.e99263fd-ff62-4e57-866d-ba9dfc51c437" Version="1.0" Language="en-US" Publisher="Roberto Faccani" />
+        <Identity Id="WebAPIASPNETTEmplateVSIX.e99263fd-ff62-4e57-866d-ba9dfc51c437" Version="1.1" Language="en-US" Publisher="Roberto Faccani" />
         <DisplayName>Web API ASP.NET Core (VB.NET)</DisplayName>
         <Description xml:space="preserve">Design template for creating a RESTful Web API via ASP.NET Core controller or minimal API, with optional support for OpenAPI and authentication</Description>
         <MoreInfo>https://github.com/berto82/WebAPIASPNETTemplate</MoreInfo>
