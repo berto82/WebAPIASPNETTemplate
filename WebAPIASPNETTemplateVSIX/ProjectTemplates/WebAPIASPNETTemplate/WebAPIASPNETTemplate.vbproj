@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <RootNamespace>WebAPIASPNETTemplate</RootNamespace>
+    <RootNamespace>$safeprojectname$</RootNamespace>
     <TargetFramework>net8.0</TargetFramework>
     <OptionStrict>On</OptionStrict>
     <ImportedNamespaces>Microsoft.AspNetCore.Builder=False,Microsoft.AspNetCore.Mvc=False,Microsoft.Extensions.DependencyInjection=False,Microsoft.Extensions.Hosting=False,Microsoft.Extensions.Logging=False,Microsoft.VisualBasic=True,System=True,System.Collections=True,System.Collections.Generic=True,System.Diagnostics=True,System.Linq=True,System.Xml.Linq=True,System.Threading.Tasks=True,WebAPIASPNETTemplate=True</ImportedNamespaces>
@@ -9,10 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove=".template.config\**" />
-    <Content Remove=".template.config\**" />
-    <EmbeddedResource Remove=".template.config\**" />
-    <None Remove=".template.config\**" />
+    <Content Include=".template.config\template.json" />
   </ItemGroup>
 
   <ItemGroup>
