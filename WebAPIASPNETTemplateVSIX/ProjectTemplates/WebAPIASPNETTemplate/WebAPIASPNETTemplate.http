@@ -1,8 +1,0 @@
-# For more info on HTTP files go to https://aka.ms/vs/httpfile
-
-@$safeprojectname$_HostAddress = https://localhost:44303
-
-GET {$safeprojectname$_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
