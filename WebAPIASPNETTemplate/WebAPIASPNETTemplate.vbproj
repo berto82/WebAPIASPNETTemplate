@@ -6,7 +6,7 @@
     <OptionStrict>On</OptionStrict>
     <ImportedNamespaces>Microsoft.AspNetCore.Builder=False,Microsoft.AspNetCore.Mvc=False,Microsoft.Extensions.DependencyInjection=False,Microsoft.Extensions.Hosting=False,Microsoft.Extensions.Logging=False,Microsoft.VisualBasic=True,System=True,System.Collections=True,System.Collections.Generic=True,System.Diagnostics=True,System.Linq=True,System.Xml.Linq=True,System.Threading.Tasks=True,WebAPIASPNETTemplate=True</ImportedNamespaces>
     <Description>API Web ASP.NET Core</Description>
-    <Version>1.0.1.0</Version>
+    <Version>1.0.2.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
